@@ -3,4 +3,5 @@ class Coustomer{
 	public Coustomer(int one){
 		this.one = one;		
 	}
+	hei
 }
